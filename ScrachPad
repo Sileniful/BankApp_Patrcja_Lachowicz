@@ -1,0 +1,6 @@
+customer list returns name, surname, id, deposit, withdraw
+
+customer -> customer list -> get listcustomerlist
+
+String name, String surname, int iD, int withdraw,
+			int deposit, ArrayList<Customer> newCustomerList
